@@ -34,3 +34,12 @@ If you find any issues or have suggestions for improvements, feel free to open a
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+
+##Result
+### sample-1
+![Testing](random-1.JPG)
+
+### sample-2
+![Submission](random2.JPG)
+
+
