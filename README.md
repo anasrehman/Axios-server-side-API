@@ -35,11 +35,11 @@ If you find any issues or have suggestions for improvements, feel free to open a
 This project is licensed under the [MIT License](LICENSE).
 
 
-##Result
+## Result
 ### sample-1
 ![Testing](random-1.JPG)
 
 ### sample-2
-![Submission](random2.JPG)
+![Submission](random-2.JPG)
 
 
